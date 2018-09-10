@@ -1,0 +1,86 @@
+img {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	height: 15vh;
+	justify-content: center;
+	margin: auto;
+}
+
+table {
+	display: flex;
+	border-collapse: collapse;
+	justify-content: center;
+}
+
+td {	
+	width: 5%;
+}
+h2 {
+	font-size: 1vw;
+}
+
+.weigth,
+.atom_number {
+	font-size: 0.7vw;
+}
+
+.weigth {
+	text-align: right;
+}
+
+.atom_number{
+	text-align: left;
+}
+
+.visible {
+	text-align: center;
+	border: 2px solid;
+}
+
+.light_green{
+	background-color: #8FBC8F;
+}
+
+.light_pink{
+	background-color: 	#DEB887;
+}
+
+.ll_pink{
+	background-color: #FFF8DC;
+}
+
+.blue{
+	background-color: 	#6495ED;
+}
+
+.coral{
+	background-color: #FF7F50;
+}
+
+.olive{
+	background-color: 	#556B2F;
+}
+
+.gold{
+	background-color: goldenrod;
+}
+
+.grey{
+	background-color: 	#A9A9A9;
+}
+
+.l_grey{
+	background-color: #DCDCDC;
+}
+
+.l_blue{
+	background-color: #00BFFF;
+}
+
+.brick{
+	background-color: #B22222;
+}
+
+.l_brick{
+	background-color: #CD5C5C;

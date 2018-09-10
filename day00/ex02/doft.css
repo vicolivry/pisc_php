@@ -1,0 +1,51 @@
+body{
+	background-color: #505050;
+}
+
+.box{
+	border-radius: 10px;
+	box-shadow: 6px 6px 3px black;
+	background-color: #909090;
+	margin: 10px 12px 5px 12px;
+}
+
+.side{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	height: 450px;
+	width: 150px;
+}
+
+.down{
+	display: flex;
+	justify-content: center; 
+}
+.middle{
+	height: 600px;
+	width:	900px;
+	justify-content: center;
+}
+.upper{
+	width: 1300px;
+	height: 150px;
+}
+
+.day_of_42{
+	display: absolute;
+	margin-top : 20px;
+	right: 5px;
+	height: 100px;
+}
+
+.cluster{
+	display: absolute;
+	margin: 7px;
+	width: 885px;
+	height: 585px;
+}
+
+.left_content{
+
+	width: 80px;
+}
